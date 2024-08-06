@@ -1,0 +1,14 @@
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/obj/Debug/net8.0/bibloteksstryingsstem.GeneratedMSBuildEditorConfig.editorconfig
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/obj/Debug/net8.0/bibloteksstryingsstem.AssemblyInfoInputs.cache
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/obj/Debug/net8.0/bibloteksstryingsstem.AssemblyInfo.cs
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/obj/Debug/net8.0/bibloteksstryingsstem.csproj.CoreCompileInputs.cache
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/bin/Debug/net8.0/bibloteksstryingsstem
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/bin/Debug/net8.0/bibloteksstryingsstem.deps.json
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/bin/Debug/net8.0/bibloteksstryingsstem.runtimeconfig.json
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/bin/Debug/net8.0/bibloteksstryingsstem.dll
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/bin/Debug/net8.0/bibloteksstryingsstem.pdb
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/obj/Debug/net8.0/bibloteksstryingsstem.dll
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/obj/Debug/net8.0/refint/bibloteksstryingsstem.dll
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/obj/Debug/net8.0/bibloteksstryingsstem.pdb
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/obj/Debug/net8.0/bibloteksstryingsstem.genruntimeconfig.cache
+/home/william/Desktop/Coding/Skole/H2/Programmeing/OOP/bibloteksstryingsstem/obj/Debug/net8.0/ref/bibloteksstryingsstem.dll
